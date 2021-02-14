@@ -1,0 +1,19 @@
+class Solution {
+    public int[] smallerNumbersThanCurrent(int[] nums) {
+        int k=0;
+        int counter=0;
+        int[] answ = new int[nums.length];
+        int max=nums[k];
+        for(int j=0;j<nums.length;j++)
+        {
+        for(int i=0;i<nums.length;i++)
+        {
+                    if(nums[j]>nums[i]){counter++;}
+        }
+         answ[j]=counter;
+            counter=0;
+        }
+    
+    return answ;
+    }
+}
