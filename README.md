@@ -10,4 +10,5 @@ Problems | A programming language |Solutions
 [1037. Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | Java | [Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1037.%20Valid%20Boomerang.java) |
 [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | Java | [Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/263.%20Ugly%20Number.java) |
 [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1672.%20Richest%20Customer%20Wealth.py) |
-[1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Java|[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1512.%20Number%20of%20Good%20Pairs.java)
+[1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Java|[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1512.%20Number%20of%20Good%20Pairs.java)|
+[27. Remove Element](https://leetcode.com/problems/remove-element/)| Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/27.%20Remove%20Element.py.txt)
