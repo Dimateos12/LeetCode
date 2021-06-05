@@ -13,4 +13,5 @@ Problems | A programming language |Solutions
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|Java|[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1512.%20Number%20of%20Good%20Pairs.java)|
 [27. Remove Element](https://leetcode.com/problems/remove-element/)| Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/27.%20Remove%20Element.py.txt)|
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)| Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1603.%20Design%20Parking%20System.py)|
+[1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.py)
 
