@@ -14,6 +14,7 @@ Problems | A programming language |Solutions
 [27. Remove Element](https://leetcode.com/problems/remove-element/)| Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/27.%20Remove%20Element.py.txt)|
 [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)| Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1603.%20Design%20Parking%20System.py)|
 [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/)|Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/1619.%20Mean%20of%20Array%20After%20Removing%20Some%20Elements.py)|
-[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py)
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Python |[Code] (https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/392.%20Is%20Subsequence.py)
+[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/961.%20N-Repeated%20Element%20in%20Size%202N%20Array.py)|
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|Python |[Code](https://github.com/Dimateos12/LeetCode/blob/main/skrytpy/392.%20Is%20Subsequence.py)|
+
 
